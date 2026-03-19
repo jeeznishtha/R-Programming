@@ -1,0 +1,12 @@
+# Numeric
+num <- 25
+
+# Character
+name <- "Tinku"
+
+# Logical
+status <- TRUE
+
+print(num)
+print(name)
+print(status)
